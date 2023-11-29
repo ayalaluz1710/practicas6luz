@@ -1,0 +1,41 @@
+/*Documento css*/
+*{margin: 0;}
+
+h1{text-align: center;
+
+padding: 20px 0px;
+background-color: rgb(74, 162, 255);
+color: rgb(22, 9, 86);
+
+padding: 30px 15px 30px 15px;
+margin-bottom: 50px;
+
+font-family: 'Bebas Neue', sans-serif;}
+
+body{background-color: rgb(169, 234, 255);
+
+    font-family: 'PT Sans Narrow', sans-serif;}
+
+/*p{color azure;}*/
+
+h2{color: rgb(44, 45, 116);}
+
+.contenido{color: blueviolet;}
+
+.lista{color: blueviolet;}
+
+.importancia{color: blueviolet;}
+
+.quees{ color:blueviolet;
+padding: 20px 0px;}
+
+.video{color: blueviolet;}
+
+.imagen {display: block;
+margin: auto;}
+
+h1 img{width:50px ;
+    height: auto;}
+
+
+

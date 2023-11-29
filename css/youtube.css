@@ -1,0 +1,25 @@
+/*Documento css*/
+
+*{margin: 0px;}
+
+body{font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+background-color: rgb(44, 44, 90);}
+
+.items{display: flex;
+flex-direction: row;
+justify-content: space-between;}
+
+.video{padding: 10px;}
+
+
+h2{font-family: 'Vina Sans', sans-serif;
+color: white;}
+
+
+p{font-family: 'Oswald', sans-serif;
+color: grey;}
+
+
+span{font-family: 'Oswald', sans-serif;
+color: white;}

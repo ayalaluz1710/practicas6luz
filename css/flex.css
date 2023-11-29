@@ -1,0 +1,32 @@
+/*Documento*/
+
+*{margin: 0;}
+
+.galeria{
+width: 100%;
+background-color: rgb(131, 164, 75);
+padding: 15px;
+box-sizing: border-box;}
+
+.container{
+ height: 350px;
+display: flex;
+background-color: green;
+padding: 15px;
+flex-direction: row;
+flex-wrap: nowrap;
+justify-content: space-between;
+align-items:flex-end;
+}
+
+.items{
+    width: 15%;
+    min-height: 120px;
+    background-color: greenyellow;
+}
+
+.dos{align-self: flex-start;}
+
+div.container div.items span{
+    font-size: 2em !important;
+}

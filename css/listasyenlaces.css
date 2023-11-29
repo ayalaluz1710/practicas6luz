@@ -1,0 +1,37 @@
+/*Documento css*/
+
+*{margin: 0;
+/*padding:0;*/}
+
+body{background-color: aquamarine;}
+
+h1{background-color: rgb(11, 14, 229);
+text-align: center;
+text-transform: uppercase;
+color: rgb(231, 231, 240);
+
+padding: 30px 15px 30px 15px ;
+margin-bottom: 20px;}
+
+/* p{color: azure;} */
+
+.contenido{color: rgb(245, 2, 172);}
+
+.atencion{color: brown;}
+
+.contenido p {color: blue;}
+
+section.contenido p { color: rgb(251, 109, 7);
+padding: 20px 0px;}
+
+#warning {color: rgb(255, 20, 177);
+
+line-height:1.5;
+text-align: justify;
+font-weight:bold;
+font-size: 1.3em;
+background-color: chartreuse;}
+
+.listas {margin: 20px 0px;}
+
+.imagen{float: right;}
